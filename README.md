@@ -6,4 +6,4 @@ Team Members:
 
 Project Description: Our django project about fastfood products. 
  
-Link to the presentation: https://www.canva.com/design/DAFBHPOygsU/h703W790pHrPTnvfksEfGA/edit?utm_content=DAFBHPOygsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Link to the presentation: https://www.canva.com/design/DAFBHPOygsU/h703W790pHrPTnvfksEfGA/view?utm_content=DAFBHPOygsU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
